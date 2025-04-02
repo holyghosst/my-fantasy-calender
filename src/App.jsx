@@ -1,10 +1,11 @@
-function App() {
+import React from 'react';
+import Timeline from './components/Timeline';
 
-  return (
-    <div>
-      <h1>📜 D&D Fantasy Timeline</h1>
-    </div>
-  );
-}
+const App = () => (
+  <div className="mx-auto w-full bg-gray-100 p-4">
+    <h1 className="text-3xl font-bold text-center mb-8">Chronicles</h1>
+    <Timeline />
+  </div>
+);
 
 export default App;

@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Foundation of Mestal",
+            "date": "1160",
+            "description": "Ludanian tribes found Mestal, then a small village."
+        },
+        {
+            "id": 2,
+            "title": "Foundation of Ludania",
+            "date": "1354",
+            "description": "Volko the One-Eyed found Ludanian Kingdom and becomes its first king."
+        }
+    ]
+}
